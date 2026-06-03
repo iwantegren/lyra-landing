@@ -1,0 +1,27 @@
+<svg
+  width="512"
+  height="512"
+  viewBox="234 239 776 776"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+>
+  <g
+    stroke="#0369a1"
+    stroke-width="18"
+    stroke-linecap="round"
+  >
+    <line x1="469" y1="501" x2="693" y2="414" />
+    <line x1="693" y1="414" x2="868" y2="283" />
+    <line x1="469" y1="501" x2="371" y2="976" />
+    <line x1="371" y1="976" x2="575" y2="912" />
+    <line x1="575" y1="912" x2="693" y2="414" />
+  </g>
+
+  <g fill="#0369a1">
+    <circle cx="868" cy="283" r="44" />
+    <circle cx="693" cy="414" r="31" />
+    <circle cx="469" cy="501" r="21" />
+    <circle cx="371" cy="976" r="39" />
+    <circle cx="575" cy="912" r="35" />
+  </g>
+</svg>
